@@ -1,0 +1,3 @@
+John Doe, john@email.com, New York
+Jane Smith, jane@email.com, London  
+Alex Johnson, alex@email.com, Bangalore
