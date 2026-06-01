@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to RAG",
+    "source": "ai_handbook.pdf",
+    "word_count": 27,
+    "chunk_count": 2,
+    "chunks": [
+      "Retrieval Augmented Generation is a technique that enhances AI responses by fetching relevant documents before generating an answer. It combines",
+      "the power of search with language models."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vector Databases",
+    "source": "database_guide.pdf",
+    "word_count": 25,
+    "chunk_count": 2,
+    "chunks": [
+      "Vector databases store embeddings \u2014 numerical representations of text. They enable semantic search, meaning you can find documents by meaning",
+      "rather than exact keyword match."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FastAPI Basics",
+    "source": "backend_guide.pdf",
+    "word_count": 29,
+    "chunk_count": 2,
+    "chunks": [
+      "FastAPI is a modern Python web framework for building APIs. It is fast, easy to use, and automatically generates documentation.",
+      "It is the backbone of most Python AI backends."
+    ]
+  }
+]

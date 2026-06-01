@@ -1,0 +1,10 @@
+{
+  "name": "Alex",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "OpenAI"
+  ],
+  "experience": 0,
+  "looking_for_job": true
+}
